@@ -1,6 +1,6 @@
 # Hi, I'm Kavant
 
-## IT | Cloud Security | Threat Detection
+## IT Professional | Cloud Security | Threat Detection
 
 I build enterprise-inspired lab environments to evaluate security technologies, validate configurations, and document practical implementations across Microsoft Azure, Microsoft Defender, and Active Directory.
 
