@@ -1,6 +1,5 @@
-# Hello, I'm Kavant
-
-IT Professional, Cybersecurity Enthusiast.
+# 👋 Hello, I'm Kavant
+👨‍💻 IT Professional | 🛡️ Cybersecurity Enthusiast
 
 I build enterprise-inspired lab environments to evaluate security technologies, 
 validate configurations, and document practical implementations across Microsoft 
@@ -13,9 +12,9 @@ and security operations.
 
 ---
 
-## Cybersecurity Projects
+## 🔬 Cybersecurity Projects
 
-### Azure Hybrid Identity & Security Monitoring Lab
+### 🏗️ Azure Hybrid Identity & Security Monitoring Lab
 A hybrid Microsoft security environment integrating Active Directory, Microsoft 
 Entra ID, Microsoft Defender XDR, Microsoft Sentinel, and Log Analytics to 
 simulate enterprise security operations.
@@ -24,23 +23,21 @@ simulate enterprise security operations.
 
 ---
 
-## What You'll Find Here
+## 🗂️ What You'll Find Here
 
-- Security Projects
-- Technical Documentation
-- Enterprise Lab Environments
-- Cloud Security Research
-- Detection Engineering Exercises
-- Blue Team Labs
-- Microsoft Security Implementations
+- 🔐 Security Projects
+- 📝 Technical Documentation
+- 🏢 Enterprise Lab Environments
+- ☁️ Cloud Security Research
+- 🎯 Detection Engineering Exercises
+- 🔵 Blue Team Labs
+- 🛡️ Microsoft Security Implementations
 
 ---
 
-## Connect With Me
+## 🤝 Connect With Me
 
-→ www.linkedin.com/in/kavantc
-
-
+→ [www.linkedin.com/in/kavantc](https://www.linkedin.com/in/kavantc)
 
 ---
 
