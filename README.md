@@ -1,9 +1,7 @@
 # 👋 Hello, I'm Kavant
 👨‍💻 IT Professional | 🛡️ Cybersecurity Enthusiast
 
-I build enterprise-inspired lab environments to evaluate security technologies, 
-validate configurations, and document practical implementations across Microsoft 
-Azure, Microsoft Defender, and Active Directory.
+I build enterprise-inspired lab environments to evaluate security technologies, validate configurations, and document practical implementations spanning cloud security, threat detection, identity management, and security operations.
 
 I enjoy learning by building, breaking, and documenting real environments. This 
 GitHub is a collection of the projects, labs, and technical documentation that 
