@@ -12,7 +12,7 @@ and security operations.
 
 ## 🔬 Cybersecurity Projects
 
-### ☁️ Azure Hybrid Identity & Security Monitoring Lab
+### ☁️ ### ☁️ [Azure Hybrid Identity & Security Monitoring Lab](https://github.com/LikeTonyHawk/Azure-Security-Monitoring-Lab)
 A hybrid Microsoft security environment integrating Active Directory, Microsoft 
 Entra ID, Microsoft Defender XDR, Microsoft Sentinel, and Log Analytics to 
 simulate enterprise security operations.
